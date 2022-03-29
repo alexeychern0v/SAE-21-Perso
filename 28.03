@@ -1,0 +1,3 @@
+À ce jour j'ai commencé à configurer mon réseau virtuel avec 4 PCs, un switch, un routeur et un serveur DHCP.
+J'ai appliqué des adresses IP, précisé la masque de sous réseau, configuré le routeur.
+Car je ne souvenais pas des commandes pour configurer le serveur DHCP alors je cherchais des commandes et enfin réussi de configurer le serveur DHCP.
